@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TMerkins
-- 👀 I’m interested in programming, Dungeons and Dragons and Warhammer 40k
+- 👀 I work for Dura Supreme in Howard Lake, MN
 - 🌱 I’m currently learning c#, .Net and working with API.
-- 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me ...
 
 <!---
