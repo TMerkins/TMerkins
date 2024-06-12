@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TMerkins
-- 👀 I work for Dura Supreme in Howard Lake, MN
+- 👀 
 - 🌱 I’m currently learning c#, .Net and working with API.
 - 📫 How to reach me ...
 
